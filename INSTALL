@@ -1,0 +1,16 @@
+Aby zainstalować program wpisz:
+
+Wymagane zależności: qmake,git
+
+Instalacja dla systemów z gałęzi debian:
+
+$ git clone https://github.com/mercin7/nienazwany
+
+$ cd nienazwany
+
+$ make
+
+Uruchomienie:
+
+chmod +x nienazwany
+./nienazwany
